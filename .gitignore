@@ -1,0 +1,5 @@
+venv/
+favorites.json
+.env
+__pycache__/
+*.pyc
